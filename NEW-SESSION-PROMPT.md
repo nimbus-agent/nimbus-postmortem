@@ -1,5 +1,8 @@
 # Build prompt — `nimbus-postmortem`
 
+> **Historical.** This build prompt is kept as written. The repository was retired on 2026-11-12;
+> nothing should be built from it. See the note at the top of `README.md`.
+
 Copy everything below into a fresh Claude Code session opened in a clone of `nimbus-agent/nimbus-postmortem`, with the main `nimbus-agent/Nimbus` repo available locally for reference.
 
 ---

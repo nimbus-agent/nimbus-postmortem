@@ -1,5 +1,9 @@
 # Nimbus Postmortem
 
+> **Retired and archived (2026-11-12).** This repository held a vision and a build prompt, and
+> nothing was ever built here. The idea continues as gateway rows: *Post-mortem generation* in [Phase 10 of the Nimbus roadmap](https://github.com/nimbus-agent/Nimbus/blob/main/docs/roadmap.md#phase-10--the-autonomous-agent) and *Auto post-mortem* in [Phase 17](https://github.com/nimbus-agent/Nimbus/blob/main/docs/roadmap.md#phase-17--the-on-call-copilot).
+> The text below is kept as it was written.
+
 Draft an incident postmortem from [**Nimbus**](https://github.com/nimbus-agent/Nimbus)-indexed
 incidents, alerts, deploys, and the changes implicated in them.
 
